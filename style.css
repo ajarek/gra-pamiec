@@ -70,7 +70,7 @@ body {
 }
 
 .hidden {
-    background: linear-gradient(135deg, rgba(136, 255, 0, 0.4), rgba(0, 0, 255, 0.3), rgba(255, 0, 0, 0.3)), url('revers1.png');
+    background: linear-gradient(135deg, rgba(136, 255, 0, 0.4), rgba(0, 0, 255, 0.3), rgba(255, 0, 0, 0.3)), url('revers.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
